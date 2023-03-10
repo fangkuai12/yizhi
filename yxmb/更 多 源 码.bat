@@ -1,1 +1,1 @@
-start http://www.qymao.cn
+start http://home.zhikulego.cn
